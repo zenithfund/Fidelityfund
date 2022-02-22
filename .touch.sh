@@ -2,3 +2,8 @@ john
 paul 
 chris
 michael
+simon
+dorcas
+adams
+jude
+joe
